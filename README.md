@@ -9,7 +9,7 @@
 
 On **May 15, 2026**, the Bundibugyo virus (Orthoebolavirus bundibugyoense) outbreak was officially declared in the Ituri Province of the Democratic Republic of Congo, with confirmed spillover to human contact zones and cross-border transmission to Uganda. The following day, **May 16, 2026**, the World Health Organization declared a public health emergency of international concern (PHEIC). On **June 5, 2026**, investors committed $75 billion in capital to a $1.8 trillion SpaceX IPO for a company whose primary innovation claim rests on orbital AI inference capability—computational capacity that does not yet exist.
 
-In the same window, public health institutions faced measles resurgence in the United States (4,318 cumulative cases as of June 4, 2026) and **Ebola confirmed transmission (676 cases, Bundibugyo strain, as of June 12, 2026)** in the Democratic Republic of the Congo and Uganda:refs[22-21,24,28].
+In the same window, public health institutions faced measles resurgence in the United States (4,318 cumulative cases as of June 4, 2026) and **Ebola confirmed transmission (676 cases, Bundibugyo strain, as of June 12, 2026)** in the Democratic Republic of the Congo and Uganda.
 
 The response timeline to design an escape-resistant mRNA vaccine remains 6–12 weeks—unchanged since 2015. The orbital AI infrastructure receiving $1.8 trillion in valuation would require computational substrates that demonstrably cannot deliver the claimed capability within existing orbital power budgets.
 
